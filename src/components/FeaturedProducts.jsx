@@ -13,7 +13,7 @@ const FeaturedProducts = () => {
   }, []);
 
   return (
-    <section className="featured-products py-8">
+    <section className="featured-products py-2">
       <h2 className="text-3xl font-bold text-center mb-6 text-blue-600">Featured Products</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
         {products.map((product) => (
