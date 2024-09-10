@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import HeroSection from "../components/HeroSection";
 import Testimonial from "../components/Testimonial";
 import FeaturedProducts from "../components/FeaturedProducts";
-import FaqSection from "../components/FAQ'S";
+import FaqSection from "../components/FAQs";
 import SpecialOffers from "../components/SpeacialOffer";
 
 const Home = () => {
